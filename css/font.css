@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'Big Shoulders';
+  src: url('../assets/font/BigShouldersDisplay.woff2') format('woff2');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 100 900;
+}
+
+@font-face {
+  font-family: 'Lexend Deca';
+  src: url('../assets/font/LexendDeca.woff2') format('woff2');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 100 900;
+}
